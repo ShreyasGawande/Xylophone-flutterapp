@@ -1,6 +1,6 @@
 # Xylophone
 
-A new Flutter application.
+This a Basic Xylophone App with 7 notes.
 
 ## Getting Started
 
@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 _________________________________________________________________________________________________________________________________________________________________________
 
-##This a Basic Xylophone App with 7 notes.
+
 
